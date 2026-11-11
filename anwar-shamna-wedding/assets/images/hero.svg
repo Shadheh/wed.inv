@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 1200" fill="none">
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#180d16"/><stop offset=".48" stop-color="#4b1a2b"/><stop offset="1" stop-color="#180e17"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#a76d62" stop-opacity=".42"/><stop offset="1" stop-color="#6b2e37" stop-opacity="0"/></radialGradient>
+ <linearGradient id="gold" x2=".8" y2="1"><stop stop-color="#f5e4bd"/><stop offset=".42" stop-color="#b99658"/><stop offset="1" stop-color="#5d3d2b"/></linearGradient>
+ <linearGradient id="silk" x2="1" y2=".7"><stop stop-color="#6c2e42" stop-opacity=".1"/><stop offset=".5" stop-color="#b16c70" stop-opacity=".25"/><stop offset="1" stop-color="#1b1119" stop-opacity=".1"/></linearGradient>
+ <filter id="blur"><feGaussianBlur stdDeviation="40"/></filter>
+</defs>
+<rect width="1800" height="1200" fill="url(#bg)"/>
+<ellipse cx="880" cy="510" rx="670" ry="480" fill="url(#glow)"/>
+<path d="M-80 1000C260 820 270 430 560 260c240-140 260 140 460 260 250 150 440-150 860-260v1000H-80Z" fill="url(#silk)"/>
+<path d="M0 1090C340 930 420 700 560 560s270-130 400 20 340 200 530 90 250-190 390-250" stroke="#d6b684" stroke-opacity=".18" stroke-width="3"/>
+<g opacity=".38" stroke="url(#gold)" stroke-width="2" fill="none">
+ <path d="M140 0C340 190 240 410 90 520M90 520c90-25 145-80 165-160M90 520c-10-75-45-125-105-155M160 385c75-5 125-45 150-120M160 385c-50-45-65-100-45-165"/>
+ <path d="M1660 0c-190 170-140 370 30 520m-30-520c-65 120-70 220-20 300m20-300c60 95 115 145 180 150m-180 370c-80-20-125-70-150-150m150 150c5-85 48-145 125-180"/>
+</g>
+<g fill="#d6b684" opacity=".6">
+ <circle cx="260" cy="190" r="3"/><circle cx="340" cy="360" r="2"/><circle cx="1440" cy="260" r="3"/><circle cx="1530" cy="420" r="2"/><circle cx="420" cy="820" r="2"/><circle cx="1360" cy="850" r="2"/>
+</g>
+<g fill="#c18d82" opacity=".16" filter="url(#blur)"><circle cx="310" cy="580" r="100"/><circle cx="1480" cy="620" r="140"/><circle cx="920" cy="140" r="100"/></g>
+<g stroke="#d7bb87" stroke-opacity=".22" fill="none"><path d="M900 80c-300 160-390 470-340 760M900 80c300 160 390 470 340 760"/><path d="M900 90c-150 130-220 260-220 390m220-390c150 130 220 260 220 390"/></g>
+</svg>

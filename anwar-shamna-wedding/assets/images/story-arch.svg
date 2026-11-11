@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1150" fill="none">
+<defs><linearGradient id="paper" x2="1" y2="1"><stop stop-color="#f2e7d9"/><stop offset="1" stop-color="#dbc8b5"/></linearGradient><linearGradient id="arch" x2="1"><stop stop-color="#8c4453"/><stop offset=".5" stop-color="#c4a16e"/><stop offset="1" stop-color="#713246"/></linearGradient><radialGradient id="light"><stop stop-color="#fff9ec" stop-opacity=".8"/><stop offset="1" stop-color="#f4e2d0" stop-opacity="0"/></radialGradient></defs>
+<rect width="900" height="1150" fill="url(#paper)"/><circle cx="440" cy="440" r="390" fill="url(#light)"/>
+<path d="M150 1000V530C150 290 270 150 450 150s300 140 300 380v470" stroke="#a7845c" stroke-opacity=".6" stroke-width="8"/><path d="M190 1000V540c0-210 100-350 260-350s260 140 260 350v460" stroke="#fff8ea" stroke-opacity=".8" stroke-width="4"/>
+<path d="M450 1000V330" stroke="#9a7357" stroke-opacity=".2" stroke-dasharray="5 14"/>
+<g fill="#7c3045"><path d="M150 330c-52-120 44-174 86-112 42-94 151-47 128 34 82 19 78 124-12 139-28 79-122 71-142 2-57 13-97-19-60-63Z"/><path d="M750 350c52-120-44-174-86-112-42-94-151-47-128 34-82 19-78 124 12 139 28 79 122 71 142 2 57 13 97-19 60-63Z"/></g>
+<g fill="#c6a06d"><circle cx="210" cy="285" r="24"/><circle cx="305" cy="250" r="18"/><circle cx="690" cy="298" r="24"/><circle cx="595" cy="245" r="18"/><circle cx="450" cy="180" r="25"/></g>
+<g stroke="#73806a" stroke-width="9" stroke-linecap="round"><path d="M150 340c-35-150-85-200-90-270M150 340c30-150 20-190 55-250M750 350c35-150 85-200 90-270M750 350c-30-150-20-190-55-250"/></g>
+<g fill="#76866c"><ellipse cx="95" cy="170" rx="44" ry="17" transform="rotate(32 95 170)"/><ellipse cx="201" cy="125" rx="44" ry="17" transform="rotate(-38 201 125)"/><ellipse cx="805" cy="170" rx="44" ry="17" transform="rotate(-32 805 170)"/><ellipse cx="699" cy="125" rx="44" ry="17" transform="rotate(38 699 125)"/></g>
+<g opacity=".75" fill="#e4afaa"><circle cx="130" cy="440" r="18"/><circle cx="770" cy="440" r="18"/><circle cx="270" cy="210" r="12"/><circle cx="630" cy="210" r="12"/></g>
+<path d="M80 1020c150-60 230-30 370-30s220-30 370 30" stroke="#b59368" stroke-opacity=".5" stroke-width="3"/>
+<text x="450" y="890" fill="#713246" font-family="Georgia,serif" font-size="42" text-anchor="middle" letter-spacing="8">A &amp; S</text><text x="450" y="940" fill="#8b725c" font-family="Arial,sans-serif" font-size="14" text-anchor="middle" letter-spacing="7">A PROMISE OF FOREVER</text>
+</svg>
